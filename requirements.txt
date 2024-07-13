@@ -1,5 +1,5 @@
 streamlit
 pandas
-tabula
+tabula-py
 tempfile
 os
